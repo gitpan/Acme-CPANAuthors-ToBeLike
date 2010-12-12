@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.04
+    version 0.06
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -35,7 +35,7 @@ CONTAINED AUTHORS
       JJNAPIORK => q[John Napiorkowski],
       JONASBN => q[jonasbn],
       LESPEA => q[Adam Lesperance],
-      MARCEL => q[Marcel Gruenauer == hanekomu],
+      MARCEL => q[Marcel Gruenauer],
       MELO => q[Pedro Melo],
       RJBS => q[Ricardo SIGNES],
       SHARYANTO => q[Steven Haryanto],
