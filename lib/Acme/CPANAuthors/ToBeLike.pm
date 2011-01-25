@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 BEGIN {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.06';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.08';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -9,7 +9,6 @@ use strict;
 use warnings;
 
 use Acme::CPANAuthors::Register (
-  ALEXBIO => q[Alessandro Ghedini],
   AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
@@ -39,7 +38,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.06
+version 0.08
 
 =head1 SYNOPSIS
 
@@ -62,7 +61,6 @@ It is currently statically generated information, I hope to make it dynamic in t
 
 =head1 CONTAINED AUTHORS
 
-  ALEXBIO => q[Alessandro Ghedini],
   AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
@@ -91,7 +89,7 @@ Chris Williams <chris@bingosnet.co.uk>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2010 by Chris Williams.
+This software is copyright (c) 2011 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.06
+    version 0.08
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -24,7 +24,6 @@ DESCRIPTION
     dynamic in the future.
 
 CONTAINED AUTHORS
-      ALEXBIO => q[Alessandro Ghedini],
       AVAR => q[AEvar Arnfjord Bjarmason],
       BINGOS => q[Chris Williams],
       BLUEFEET => q[Aran Clary Deltac],
@@ -50,7 +49,7 @@ AUTHOR
     Chris Williams <chris@bingosnet.co.uk>
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2010 by Chris Williams.
+    This software is copyright (c) 2011 by Chris Williams.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.
