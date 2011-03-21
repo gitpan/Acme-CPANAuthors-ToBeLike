@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.08
+    version 0.10
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -27,6 +27,7 @@ CONTAINED AUTHORS
       AVAR => q[AEvar Arnfjord Bjarmason],
       BINGOS => q[Chris Williams],
       BLUEFEET => q[Aran Clary Deltac],
+      BURAK => q[Burak Gursoy],
       CEBJYRE => q[Glenn Fowler],
       CSJEWELL => q[Curtis Jewell],
       DOY => q[Jesse Luehrs],
