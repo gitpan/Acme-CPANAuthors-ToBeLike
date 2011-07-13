@@ -2,9 +2,9 @@
 use strict;
 use warnings;
 
-BEGIN { require 5.006002; }
+use 5.006002;
 
-use ExtUtils::MakeMaker 6.31;
+use ExtUtils::MakeMaker 6.30;
 
 
 
@@ -13,7 +13,7 @@ my %WriteMakefileArgs = (
   'AUTHOR' => 'Chris Williams <chris@bingosnet.co.uk>',
   'BUILD_REQUIRES' => {},
   'CONFIGURE_REQUIRES' => {
-    'ExtUtils::MakeMaker' => '6.31'
+    'ExtUtils::MakeMaker' => '6.30'
   },
   'DISTNAME' => 'Acme-CPANAuthors-ToBeLike',
   'EXE_FILES' => [],
@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   'PREREQ_PM' => {
     'Acme::CPANAuthors' => '0'
   },
-  'VERSION' => '0.10',
+  'VERSION' => '0.12',
   'test' => {
     'TESTS' => 't/*.t'
   }

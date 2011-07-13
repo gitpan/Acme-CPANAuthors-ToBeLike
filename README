@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.10
+    version 0.12
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -24,6 +24,7 @@ DESCRIPTION
     dynamic in the future.
 
 CONTAINED AUTHORS
+      ALEXBIO => q[Alessandro Ghedini],
       AVAR => q[AEvar Arnfjord Bjarmason],
       BINGOS => q[Chris Williams],
       BLUEFEET => q[Aran Clary Deltac],
@@ -37,7 +38,9 @@ CONTAINED AUTHORS
       LESPEA => q[Adam Lesperance],
       MARCEL => q[Marcel Gruenauer],
       MELO => q[Pedro Melo],
+      MSCHOUT => q[Michael Schout],
       RJBS => q[Ricardo SIGNES],
+      SARTAK => q[Shawn M Moore],
       SHARYANTO => q[Steven Haryanto],
       YANICK => q[Yanick Champoux],
 
