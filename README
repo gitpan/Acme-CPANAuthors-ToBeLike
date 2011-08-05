@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.12
+    version 0.14
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -33,6 +33,7 @@ CONTAINED AUTHORS
       CSJEWELL => q[Curtis Jewell],
       DOY => q[Jesse Luehrs],
       FLORA => q[Florian Ragwitz],
+      GENEHACK => q[John SJ Anderson],
       JJNAPIORK => q[John Napiorkowski],
       JONASBN => q[jonasbn],
       LESPEA => q[Adam Lesperance],
