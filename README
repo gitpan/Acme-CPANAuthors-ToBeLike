@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.14
+    version 0.16
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -41,6 +41,7 @@ CONTAINED AUTHORS
       MELO => q[Pedro Melo],
       MSCHOUT => q[Michael Schout],
       RJBS => q[Ricardo SIGNES],
+      RSRCHBOY => q[Chris Weyl],
       SARTAK => q[Shawn M Moore],
       SHARYANTO => q[Steven Haryanto],
       YANICK => q[Yanick Champoux],

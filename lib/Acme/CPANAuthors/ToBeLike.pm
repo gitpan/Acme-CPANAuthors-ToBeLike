@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
-BEGIN {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.14';
+{
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.16';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -26,6 +26,7 @@ use Acme::CPANAuthors::Register (
   MELO => q[Pedro Melo],
   MSCHOUT => q[Michael Schout],
   RJBS => q[Ricardo SIGNES],
+  RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
   SHARYANTO => q[Steven Haryanto],
   YANICK => q[Yanick Champoux],
@@ -43,7 +44,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.14
+version 0.16
 
 =head1 SYNOPSIS
 
@@ -83,6 +84,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MELO => q[Pedro Melo],
   MSCHOUT => q[Michael Schout],
   RJBS => q[Ricardo SIGNES],
+  RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
   SHARYANTO => q[Steven Haryanto],
   YANICK => q[Yanick Champoux],

@@ -1,6 +1,12 @@
 ==============================
-9999-99-99 99:99:99 +0000 HEAD
+2011-10-01 20:25:02 +0100 0.16
 ==============================
+
+  commit afa83f608e6113bb76e799de630cba6052997b49
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Sat Oct 1 20:25:02 2011 +0100
+  
+    Added RSRCHBOY
 
   commit 67e065b18fa06b24e5ba2020c93a04920ead5faa
   Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
