@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.16';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.18';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -14,8 +14,10 @@ use Acme::CPANAuthors::Register (
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
   BURAK => q[Burak Gursoy],
+  CADAVIS => q[Chad A Davis],
   CEBJYRE => q[Glenn Fowler],
   CSJEWELL => q[Curtis Jewell],
+  DAGOLDEN => q[David Golden],
   DOY => q[Jesse Luehrs],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
@@ -44,7 +46,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.16
+version 0.18
 
 =head1 SYNOPSIS
 
@@ -72,8 +74,10 @@ It is currently statically generated information, I hope to make it dynamic in t
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
   BURAK => q[Burak Gursoy],
+  CADAVIS => q[Chad A Davis],
   CEBJYRE => q[Glenn Fowler],
   CSJEWELL => q[Curtis Jewell],
+  DAGOLDEN => q[David Golden],
   DOY => q[Jesse Luehrs],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
