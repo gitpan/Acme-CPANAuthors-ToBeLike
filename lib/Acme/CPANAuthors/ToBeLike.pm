@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.18';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.20';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -9,7 +9,6 @@ use strict;
 use warnings;
 
 use Acme::CPANAuthors::Register (
-  ALEXBIO => q[Alessandro Ghedini],
   AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
@@ -31,6 +30,7 @@ use Acme::CPANAuthors::Register (
   RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
   SHARYANTO => q[Steven Haryanto],
+  TOMFAHLE => q[Thomas Fahle],
   YANICK => q[Yanick Champoux],
 );
 
@@ -46,7 +46,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.18
+version 0.20
 
 =head1 SYNOPSIS
 
@@ -69,7 +69,6 @@ It is currently statically generated information, I hope to make it dynamic in t
 
 =head1 CONTAINED AUTHORS
 
-  ALEXBIO => q[Alessandro Ghedini],
   AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
@@ -91,6 +90,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
   SHARYANTO => q[Steven Haryanto],
+  TOMFAHLE => q[Thomas Fahle],
   YANICK => q[Yanick Champoux],
 
 =head1 SEE ALSO
@@ -105,7 +105,7 @@ Chris Williams <chris@bingosnet.co.uk>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Chris Williams.
+This software is copyright (c) 2012 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
