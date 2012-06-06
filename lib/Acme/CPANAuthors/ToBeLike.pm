@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.20';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.22';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -9,6 +9,7 @@ use strict;
 use warnings;
 
 use Acme::CPANAuthors::Register (
+  AMD => q[AMD OSRC (AMD Operating System Research Center)],
   AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
@@ -17,6 +18,7 @@ use Acme::CPANAuthors::Register (
   CEBJYRE => q[Glenn Fowler],
   CSJEWELL => q[Curtis Jewell],
   DAGOLDEN => q[David Golden],
+  DBR => q[Daniel B],
   DOY => q[Jesse Luehrs],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
@@ -29,7 +31,9 @@ use Acme::CPANAuthors::Register (
   RJBS => q[Ricardo SIGNES],
   RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
+  SCHWIGON => q[Steffen Schwigon],
   SHARYANTO => q[Steven Haryanto],
+  TOBYINK => q[Toby Inkster],
   TOMFAHLE => q[Thomas Fahle],
   YANICK => q[Yanick Champoux],
 );
@@ -46,7 +50,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.20
+version 0.22
 
 =head1 SYNOPSIS
 
@@ -69,6 +73,7 @@ It is currently statically generated information, I hope to make it dynamic in t
 
 =head1 CONTAINED AUTHORS
 
+  AMD => q[AMD OSRC (AMD Operating System Research Center)],
   AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
   BLUEFEET => q[Aran Clary Deltac],
@@ -77,6 +82,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   CEBJYRE => q[Glenn Fowler],
   CSJEWELL => q[Curtis Jewell],
   DAGOLDEN => q[David Golden],
+  DBR => q[Daniel B],
   DOY => q[Jesse Luehrs],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
@@ -89,7 +95,9 @@ It is currently statically generated information, I hope to make it dynamic in t
   RJBS => q[Ricardo SIGNES],
   RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
+  SCHWIGON => q[Steffen Schwigon],
   SHARYANTO => q[Steven Haryanto],
+  TOBYINK => q[Toby Inkster],
   TOMFAHLE => q[Thomas Fahle],
   YANICK => q[Yanick Champoux],
 
