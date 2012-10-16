@@ -1,4 +1,14 @@
 ==============================
+2012-10-16 19:56:23 +0100 0.26
+==============================
+
+  commit a456c34a27cb96fc4c1d635fd3a7c8e8752a898c
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Tue Oct 16 19:56:23 2012 +0100
+  
+    Clarify that the module is generated from CPAN indexes 
+
+==============================
 2012-10-15 23:03:58 +0100 0.24
 ==============================
 

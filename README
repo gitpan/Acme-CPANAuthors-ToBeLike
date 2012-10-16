@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.24
+    version 0.26
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -20,8 +20,9 @@ DESCRIPTION
     This class provides a hash of emulatable CPAN Authors' PAUSE ID and name
     to the Acme::CPANAuthors module.
 
-    It is currently statically generated information, I hope to make it
-    dynamic in the future.
+    It is generated from the indexed modules on CPAN
+    "02packages.details.txt" finding CPAN authors who have a module indexed
+    with "BeLike" in the name.
 
 CONTAINED AUTHORS
       ALEXBIO => q[Alessandro Ghedini],
