@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.26
+    version 0.28
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -37,6 +37,7 @@ CONTAINED AUTHORS
       DAGOLDEN => q[David Golden],
       DBR => q[Daniel B],
       DOY => q[Jesse Luehrs],
+      FIBO => q[Gianluca Casati],
       FLORA => q[Florian Ragwitz],
       GENEHACK => q[John SJ Anderson],
       GETTY => q[Torsten Raudssus],
@@ -52,7 +53,6 @@ CONTAINED AUTHORS
       SCHWIGON => q[Steffen Schwigon],
       SHANTANU => q[Shantanu Bhadoria],
       SHARYANTO => q[Steven Haryanto],
-      TOBYINK => q[Toby Inkster],
       TOMFAHLE => q[Thomas Fahle],
       YANICK => q[Yanick Champoux],
 
@@ -65,7 +65,7 @@ AUTHOR
     Chris Williams <chris@bingosnet.co.uk>
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2012 by Chris Williams.
+    This software is copyright (c) 2013 by Chris Williams.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.

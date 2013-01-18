@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.26';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.28';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -21,6 +21,7 @@ use Acme::CPANAuthors::Register (
   DAGOLDEN => q[David Golden],
   DBR => q[Daniel B],
   DOY => q[Jesse Luehrs],
+  FIBO => q[Gianluca Casati],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
@@ -36,7 +37,6 @@ use Acme::CPANAuthors::Register (
   SCHWIGON => q[Steffen Schwigon],
   SHANTANU => q[Shantanu Bhadoria],
   SHARYANTO => q[Steven Haryanto],
-  TOBYINK => q[Toby Inkster],
   TOMFAHLE => q[Thomas Fahle],
   YANICK => q[Yanick Champoux],
 );
@@ -53,7 +53,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.26
+version 0.28
 
 =head1 SYNOPSIS
 
@@ -89,6 +89,7 @@ a module indexed with C<BeLike> in the name.
   DAGOLDEN => q[David Golden],
   DBR => q[Daniel B],
   DOY => q[Jesse Luehrs],
+  FIBO => q[Gianluca Casati],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
@@ -104,7 +105,6 @@ a module indexed with C<BeLike> in the name.
   SCHWIGON => q[Steffen Schwigon],
   SHANTANU => q[Shantanu Bhadoria],
   SHARYANTO => q[Steven Haryanto],
-  TOBYINK => q[Toby Inkster],
   TOMFAHLE => q[Thomas Fahle],
   YANICK => q[Yanick Champoux],
 
@@ -120,7 +120,7 @@ Chris Williams <chris@bingosnet.co.uk>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Chris Williams.
+This software is copyright (c) 2013 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
