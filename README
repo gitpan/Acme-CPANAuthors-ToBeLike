@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.30
+    version 0.32
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -47,6 +47,7 @@ CONTAINED AUTHORS
       LOGIE => q[Logan Bell],
       MARCEL => q[Marcel Gruenauer],
       MELO => q[Pedro Melo],
+      MRUIZ => q[Miquel Ruiz Martin],
       MSCHOUT => q[Michael Schout],
       RJBS => q[Ricardo SIGNES],
       RSRCHBOY => q[Chris Weyl],

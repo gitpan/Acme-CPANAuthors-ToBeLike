@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.30';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.32';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -31,6 +31,7 @@ use Acme::CPANAuthors::Register (
   LOGIE => q[Logan Bell],
   MARCEL => q[Marcel Gruenauer],
   MELO => q[Pedro Melo],
+  MRUIZ => q[Miquel Ruiz Martin],
   MSCHOUT => q[Michael Schout],
   RJBS => q[Ricardo SIGNES],
   RSRCHBOY => q[Chris Weyl],
@@ -54,7 +55,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.30
+version 0.32
 
 =head1 SYNOPSIS
 
@@ -100,6 +101,7 @@ a module indexed with C<BeLike> in the name.
   LOGIE => q[Logan Bell],
   MARCEL => q[Marcel Gruenauer],
   MELO => q[Pedro Melo],
+  MRUIZ => q[Miquel Ruiz Martin],
   MSCHOUT => q[Michael Schout],
   RJBS => q[Ricardo SIGNES],
   RSRCHBOY => q[Chris Weyl],
