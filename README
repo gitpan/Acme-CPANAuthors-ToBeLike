@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.32
+    version 0.34
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -50,6 +50,7 @@ CONTAINED AUTHORS
       MRUIZ => q[Miquel Ruiz Martin],
       MSCHOUT => q[Michael Schout],
       RJBS => q[Ricardo SIGNES],
+      RJRAY => q[Randy J Ray],
       RSRCHBOY => q[Chris Weyl],
       SARTAK => q[Shawn M Moore],
       SCHWIGON => q[Steffen Schwigon],

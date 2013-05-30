@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.32';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.34';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -34,6 +34,7 @@ use Acme::CPANAuthors::Register (
   MRUIZ => q[Miquel Ruiz Martin],
   MSCHOUT => q[Michael Schout],
   RJBS => q[Ricardo SIGNES],
+  RJRAY => q[Randy J Ray],
   RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
   SCHWIGON => q[Steffen Schwigon],
@@ -55,7 +56,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.32
+version 0.34
 
 =head1 SYNOPSIS
 
@@ -104,6 +105,7 @@ a module indexed with C<BeLike> in the name.
   MRUIZ => q[Miquel Ruiz Martin],
   MSCHOUT => q[Michael Schout],
   RJBS => q[Ricardo SIGNES],
+  RJRAY => q[Randy J Ray],
   RSRCHBOY => q[Chris Weyl],
   SARTAK => q[Shawn M Moore],
   SCHWIGON => q[Steffen Schwigon],
