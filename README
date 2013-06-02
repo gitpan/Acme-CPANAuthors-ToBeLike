@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.34
+    version 0.36
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -42,6 +42,7 @@ CONTAINED AUTHORS
       GENEHACK => q[John SJ Anderson],
       GETTY => q[Torsten Raudssus],
       JJNAPIORK => q[John Napiorkowski],
+      JMATES => q[Jeremy Mates],
       JONASBN => q[jonasbn],
       LESPEA => q[Adam Lesperance],
       LOGIE => q[Logan Bell],

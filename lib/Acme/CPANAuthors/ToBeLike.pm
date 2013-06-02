@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.34';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.36';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -26,6 +26,7 @@ use Acme::CPANAuthors::Register (
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
   JJNAPIORK => q[John Napiorkowski],
+  JMATES => q[Jeremy Mates],
   JONASBN => q[jonasbn],
   LESPEA => q[Adam Lesperance],
   LOGIE => q[Logan Bell],
@@ -56,7 +57,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.34
+version 0.36
 
 =head1 SYNOPSIS
 
@@ -97,6 +98,7 @@ a module indexed with C<BeLike> in the name.
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
   JJNAPIORK => q[John Napiorkowski],
+  JMATES => q[Jeremy Mates],
   JONASBN => q[jonasbn],
   LESPEA => q[Adam Lesperance],
   LOGIE => q[Logan Bell],
