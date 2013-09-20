@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.38
+    version 0.40
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -25,7 +25,7 @@ DESCRIPTION
     with "BeLike" in the name.
 
 CONTAINED AUTHORS
-      ALEXBIO => q[Alessandro Ghedini],
+      ABHIISNOT => q[Abhishek Shende],
       AMD => q[AMD OSRC (AMD Operating System Research Center)],
       AVAR => q[AEvar Arnfjord Bjarmason],
       BINGOS => q[Chris Williams],
@@ -33,9 +33,10 @@ CONTAINED AUTHORS
       BURAK => q[Burak Gursoy],
       CADAVIS => q[Chad A Davis],
       CEBJYRE => q[Glenn Fowler],
+      CHIM => q[Anton Gerasimov],
       CSJEWELL => q[Curtis Jewell],
       DAGOLDEN => q[David Golden],
-      DBR => q[Daniel B],
+      DBR => q[Daniel],
       DOY => q[Jesse Luehrs],
       FIBO => q[Gianluca Casati],
       FLORA => q[Florian Ragwitz],
@@ -58,8 +59,10 @@ CONTAINED AUTHORS
       SCHWIGON => q[Steffen Schwigon],
       SHANTANU => q[Shantanu Bhadoria],
       SHARYANTO => q[Steven Haryanto],
+      TOKUHIROM => q[Tokuhiro Matsuno],
       TOMFAHLE => q[Thomas Fahle],
       YANICK => q[Yanick Champoux],
+      ZAKAME => q[Zak B. Elep],
 
 SEE ALSO
     Acme::CPANAuthors
