@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.40
+    version 0.42
 
 SYNOPSIS
         use Acme::CPANAuthors;

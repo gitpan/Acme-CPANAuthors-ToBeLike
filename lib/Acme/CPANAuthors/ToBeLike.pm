@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::ToBeLike;
 {
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.40';
+  $Acme::CPANAuthors::ToBeLike::VERSION = '0.42';
 }
 
 #ABSTRACT: BeLike other CPAN Authors
@@ -55,13 +55,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.40
+version 0.42
 
 =head1 SYNOPSIS
 
