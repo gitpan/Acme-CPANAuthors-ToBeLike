@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.42
+    version 0.44
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -27,9 +27,7 @@ DESCRIPTION
 CONTAINED AUTHORS
       ABHIISNOT => q[Abhishek Shende],
       AMD => q[AMD OSRC (AMD Operating System Research Center)],
-      AVAR => q[AEvar Arnfjord Bjarmason],
       BINGOS => q[Chris Williams],
-      BLUEFEET => q[Aran Clary Deltac],
       BURAK => q[Burak Gursoy],
       CADAVIS => q[Chad A Davis],
       CEBJYRE => q[Glenn Fowler],
@@ -38,7 +36,7 @@ CONTAINED AUTHORS
       DAGOLDEN => q[David Golden],
       DBR => q[Daniel],
       DOY => q[Jesse Luehrs],
-      FIBO => q[Gianluca Casati],
+      FELLIOTT => q[Fitz Elliott],
       FLORA => q[Florian Ragwitz],
       GENEHACK => q[John SJ Anderson],
       GETTY => q[Torsten Raudssus],
@@ -59,8 +57,9 @@ CONTAINED AUTHORS
       SCHWIGON => q[Steffen Schwigon],
       SHANTANU => q[Shantanu Bhadoria],
       SHARYANTO => q[Steven Haryanto],
+      SONGMU => q[Masayuki Matsuki],
       TOKUHIROM => q[Tokuhiro Matsuno],
-      TOMFAHLE => q[Thomas Fahle],
+      XAERXESS => q[Grzegorz Rozniecki],
       YANICK => q[Yanick Champoux],
       ZAKAME => q[Zak B. Elep],
 
@@ -73,7 +72,7 @@ AUTHOR
     Chris Williams <chris@bingosnet.co.uk>
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2013 by Chris Williams.
+    This software is copyright (c) 2014 by Chris Williams.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.

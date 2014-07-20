@@ -1,8 +1,5 @@
 package Acme::CPANAuthors::ToBeLike;
-{
-  $Acme::CPANAuthors::ToBeLike::VERSION = '0.42';
-}
-
+$Acme::CPANAuthors::ToBeLike::VERSION = '0.44';
 #ABSTRACT: BeLike other CPAN Authors
 
 use strict;
@@ -11,9 +8,7 @@ use warnings;
 use Acme::CPANAuthors::Register (
   ABHIISNOT => q[Abhishek Shende],
   AMD => q[AMD OSRC (AMD Operating System Research Center)],
-  AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
-  BLUEFEET => q[Aran Clary Deltac],
   BURAK => q[Burak Gursoy],
   CADAVIS => q[Chad A Davis],
   CEBJYRE => q[Glenn Fowler],
@@ -22,7 +17,7 @@ use Acme::CPANAuthors::Register (
   DAGOLDEN => q[David Golden],
   DBR => q[Daniel],
   DOY => q[Jesse Luehrs],
-  FIBO => q[Gianluca Casati],
+  FELLIOTT => q[Fitz Elliott],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
@@ -43,8 +38,9 @@ use Acme::CPANAuthors::Register (
   SCHWIGON => q[Steffen Schwigon],
   SHANTANU => q[Shantanu Bhadoria],
   SHARYANTO => q[Steven Haryanto],
+  SONGMU => q[Masayuki Matsuki],
   TOKUHIROM => q[Tokuhiro Matsuno],
-  TOMFAHLE => q[Thomas Fahle],
+  XAERXESS => q[Grzegorz Rozniecki],
   YANICK => q[Yanick Champoux],
   ZAKAME => q[Zak B. Elep],
 );
@@ -63,7 +59,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.42
+version 0.44
 
 =head1 SYNOPSIS
 
@@ -89,9 +85,7 @@ a module indexed with C<BeLike> in the name.
 
   ABHIISNOT => q[Abhishek Shende],
   AMD => q[AMD OSRC (AMD Operating System Research Center)],
-  AVAR => q[AEvar Arnfjord Bjarmason],
   BINGOS => q[Chris Williams],
-  BLUEFEET => q[Aran Clary Deltac],
   BURAK => q[Burak Gursoy],
   CADAVIS => q[Chad A Davis],
   CEBJYRE => q[Glenn Fowler],
@@ -100,7 +94,7 @@ a module indexed with C<BeLike> in the name.
   DAGOLDEN => q[David Golden],
   DBR => q[Daniel],
   DOY => q[Jesse Luehrs],
-  FIBO => q[Gianluca Casati],
+  FELLIOTT => q[Fitz Elliott],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
@@ -121,8 +115,9 @@ a module indexed with C<BeLike> in the name.
   SCHWIGON => q[Steffen Schwigon],
   SHANTANU => q[Shantanu Bhadoria],
   SHARYANTO => q[Steven Haryanto],
+  SONGMU => q[Masayuki Matsuki],
   TOKUHIROM => q[Tokuhiro Matsuno],
-  TOMFAHLE => q[Thomas Fahle],
+  XAERXESS => q[Grzegorz Rozniecki],
   YANICK => q[Yanick Champoux],
   ZAKAME => q[Zak B. Elep],
 
@@ -138,7 +133,7 @@ Chris Williams <chris@bingosnet.co.uk>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Chris Williams.
+This software is copyright (c) 2014 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
