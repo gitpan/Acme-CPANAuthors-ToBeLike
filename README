@@ -2,7 +2,7 @@ NAME
     Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 VERSION
-    version 0.44
+    version 0.46
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -33,10 +33,12 @@ CONTAINED AUTHORS
       CEBJYRE => q[Glenn Fowler],
       CHIM => q[Anton Gerasimov],
       CSJEWELL => q[Curtis Jewell],
+      CSSON => q[Erik Carlsson],
       DAGOLDEN => q[David Golden],
       DBR => q[Daniel],
       DOY => q[Jesse Luehrs],
       FELLIOTT => q[Fitz Elliott],
+      FIBO => q[Gianluca Casati],
       FLORA => q[Florian Ragwitz],
       GENEHACK => q[John SJ Anderson],
       GETTY => q[Torsten Raudssus],
@@ -56,7 +58,6 @@ CONTAINED AUTHORS
       SARTAK => q[Shawn M Moore],
       SCHWIGON => q[Steffen Schwigon],
       SHANTANU => q[Shantanu Bhadoria],
-      SHARYANTO => q[Steven Haryanto],
       SONGMU => q[Masayuki Matsuki],
       TOKUHIROM => q[Tokuhiro Matsuno],
       XAERXESS => q[Grzegorz Rozniecki],

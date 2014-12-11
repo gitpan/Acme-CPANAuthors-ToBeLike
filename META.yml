@@ -8,9 +8,9 @@ build_requires:
   IPC::Open3: '0'
   Test::More: '0'
 configure_requires:
-  ExtUtils::MakeMaker: '6.30'
+  ExtUtils::MakeMaker: '0'
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141520'
+generated_by: 'Dist::Zilla version 5.025, CPAN::Meta::Converter version 2.143240'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -22,4 +22,4 @@ requires:
 resources:
   homepage: https://github.com/bingos/acme-cpanauthors-tobelike
   repository: https://github.com/bingos/acme-cpanauthors-tobelike.git
-version: '0.44'
+version: '0.46'

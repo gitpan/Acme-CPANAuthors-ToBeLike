@@ -1,5 +1,5 @@
 package Acme::CPANAuthors::ToBeLike;
-$Acme::CPANAuthors::ToBeLike::VERSION = '0.44';
+$Acme::CPANAuthors::ToBeLike::VERSION = '0.46';
 #ABSTRACT: BeLike other CPAN Authors
 
 use strict;
@@ -14,10 +14,12 @@ use Acme::CPANAuthors::Register (
   CEBJYRE => q[Glenn Fowler],
   CHIM => q[Anton Gerasimov],
   CSJEWELL => q[Curtis Jewell],
+  CSSON => q[Erik Carlsson],
   DAGOLDEN => q[David Golden],
   DBR => q[Daniel],
   DOY => q[Jesse Luehrs],
   FELLIOTT => q[Fitz Elliott],
+  FIBO => q[Gianluca Casati],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
@@ -37,7 +39,6 @@ use Acme::CPANAuthors::Register (
   SARTAK => q[Shawn M Moore],
   SCHWIGON => q[Steffen Schwigon],
   SHANTANU => q[Shantanu Bhadoria],
-  SHARYANTO => q[Steven Haryanto],
   SONGMU => q[Masayuki Matsuki],
   TOKUHIROM => q[Tokuhiro Matsuno],
   XAERXESS => q[Grzegorz Rozniecki],
@@ -59,7 +60,7 @@ Acme::CPANAuthors::ToBeLike - BeLike other CPAN Authors
 
 =head1 VERSION
 
-version 0.44
+version 0.46
 
 =head1 SYNOPSIS
 
@@ -91,10 +92,12 @@ a module indexed with C<BeLike> in the name.
   CEBJYRE => q[Glenn Fowler],
   CHIM => q[Anton Gerasimov],
   CSJEWELL => q[Curtis Jewell],
+  CSSON => q[Erik Carlsson],
   DAGOLDEN => q[David Golden],
   DBR => q[Daniel],
   DOY => q[Jesse Luehrs],
   FELLIOTT => q[Fitz Elliott],
+  FIBO => q[Gianluca Casati],
   FLORA => q[Florian Ragwitz],
   GENEHACK => q[John SJ Anderson],
   GETTY => q[Torsten Raudssus],
@@ -114,7 +117,6 @@ a module indexed with C<BeLike> in the name.
   SARTAK => q[Shawn M Moore],
   SCHWIGON => q[Steffen Schwigon],
   SHANTANU => q[Shantanu Bhadoria],
-  SHARYANTO => q[Steven Haryanto],
   SONGMU => q[Masayuki Matsuki],
   TOKUHIROM => q[Tokuhiro Matsuno],
   XAERXESS => q[Grzegorz Rozniecki],
